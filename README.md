@@ -3,7 +3,7 @@
 ### Il simulatore fan made con le carte e gli effetti in italiano
 
 Per quanto ne sappiamo, è il **primo simulatore di One Piece TCG pensato per giocare con gli effetti delle carte in italiano**.
-Gratuito, per Windows, **in continuo aggiornamento**.
+Gratuito, per Windows e Android (beta), **in continuo aggiornamento**.
 
 > [!IMPORTANT]
 > **Progetto fan made, non ufficiale.** TCGITA non è affiliato, approvato né sponsorizzato da Bandai o da altri titolari dei diritti di One Piece.
@@ -23,6 +23,19 @@ Gratuito, per Windows, **in continuo aggiornamento**.
 
 Requisiti: Windows 10 o 11 e una connessione a internet. In alternativa all'installer c'è **`TCGITA-portable-vX.Y.Z.zip`**:
 estrai **tutto** il contenuto in una cartella e avvia `tcgita.exe` (non avviarlo da dentro lo zip).
+
+## Android (beta)
+
+**[⬇ Scarica l'ultima versione per Android](../../releases/latest)**: scegli **`TCGITA-android-vX.Y.Z.apk`**.
+
+1. Dal telefono apri il file scaricato e **consenti l'installazione da questa fonte** (Android lo chiede la prima volta). Se Play Protect avvisa
+   che l'app non è verificata, scegli **Installa comunque**: il file non è sul Play Store.
+2. **Attendi il primo avvio (qualche minuto, una volta sola).** L'app scarica l'elenco delle carte dal sito ufficiale; poi le immagini arrivano in
+   background e in alto compare "Immagini N%" (in tutto circa 770 MB: meglio con il Wi-Fi).
+3. **Accedi con Discord**, poi **Partita veloce** o **Solo contro il bot**. Si gioca con il telefono in orizzontale. Nel **Menu** c'è l'impostazione
+   **Schermo** per cambiare la dimensione dell'interfaccia (Automatica si adatta a telefono e tablet).
+
+Per aggiornare installa la nuova versione sopra quella vecchia: le carte e le immagini già scaricate restano.
 
 ## Un progetto in continuo aggiornamento
 
