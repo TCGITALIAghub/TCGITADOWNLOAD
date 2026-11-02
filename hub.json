@@ -1,6 +1,6 @@
 {
   "hub": "https://trades-deer-finder-had.trycloudflare.com",
-  "version": "0.6.2",
+  "version": "0.6.4",
   "minVersion": "0.2.0",
-  "sig": "1M7haX+DQMs411nS2GcljZmu1V1y44unp9i8/vsvySH6Ml2BkuLW3a2WEcSIGUtOlXlFxMbBXOobjvGK2e+dtQ=="
+  "sig": "s4RWZCL+YfGwp0PfdFT5rO7NHFId5yV5Zu/SqVIFwsEIQrcmeVY9I9mT9VWzoT085BfpI9MIh2hMK4GzLzHW1Q=="
 }
