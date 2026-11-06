@@ -68,10 +68,10 @@ di solito non devi fare niente. Puoi anche premere **Controlla il link da solo**
 **Solo se l'app non ci riesce**, copia l'indirizzo attuale del server di gioco qui sotto, poi nella lobby apri **Server di gioco**, incollalo nella casella
 e premi **Usa questo indirizzo**:
 
-**Indirizzo attuale del server di gioco**
+**Indirizzo attuale del server di gioco** (il server è di nuovo online dal 6/11/2026)
 
 ```
-https://trades-deer-finder-had.trycloudflare.com
+https://throughout-accessibility-citysearch-appearing.trycloudflare.com
 ```
 
 Se compare **"Dati delle carte non aggiornati"**, premi **Aggiorna i dati delle carte** nella lobby e riprova.
