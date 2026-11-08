@@ -1,8 +1,8 @@
 {
-  "hub": "https://pdf-trustee-tapes-multiple.trycloudflare.com",
+  "hub": "https://secondary-stage-actress-contributors.trycloudflare.com",
   "version": "0.6.7",
   "minVersion": "0.2.0",
-  "sig": "c5GO3/7wAjQ0YbUjTGxiUw16OvsVxugfgsIoW4CJ07C/csGZBX1PaZ6CmS/V5lrt0Nv7UK2/NmlErP0zrs9rQg==",
-  "seq": 1794087027,
-  "sig2": "OFMRpHH+sR7pTPGD93t670zGm1i+31b4paUVPvN2McEVJ2C1xnOyiZh/iEB9IozPw4pHufOB7Nn8OCnLnxsRrg=="
+  "sig": "TJLOfoP7bhpd+cU1YVCuwi7pHEXuhXANkoHTxpFyMCWRr1L5LJ5Mbe5mDKE+TWejBEV1qG61aqLlMnpdVfCIfA==",
+  "seq": 1794128358,
+  "sig2": "akmx/ToZn0l3SHiJEEdvch1SxI6m80gWOjboSfCfVD+rA+o0K8ECzcpX67RNPanRe2JJasSxCBj6lpzqX+NKdA=="
 }
