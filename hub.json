@@ -1,8 +1,8 @@
 {
-  "hub": "https://secondary-stage-actress-contributors.trycloudflare.com",
+  "hub": "https://fit-planners-cruise-decisions.trycloudflare.com",
   "version": "0.6.7",
   "minVersion": "0.2.0",
-  "sig": "TJLOfoP7bhpd+cU1YVCuwi7pHEXuhXANkoHTxpFyMCWRr1L5LJ5Mbe5mDKE+TWejBEV1qG61aqLlMnpdVfCIfA==",
-  "seq": 1794128358,
-  "sig2": "akmx/ToZn0l3SHiJEEdvch1SxI6m80gWOjboSfCfVD+rA+o0K8ECzcpX67RNPanRe2JJasSxCBj6lpzqX+NKdA=="
+  "sig": "YnKjFtiAjMWyAxkkwSjjVMebmTXQI2oTm7NrpaekgpulliPqyFXuHw2jwbfo89Qrah1/42Nhm+u6StQkEOXs1A==",
+  "seq": 1794145540,
+  "sig2": "uYBW5IB4k99wO3OWwo2DUWJUVV1IODNnLnd4zqGeEhPkPpWl7WsXh9AMO5qpIMiVxQKAhD8G+XVWWU2zOIxEuQ=="
 }
