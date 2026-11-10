@@ -71,7 +71,7 @@ e premi **Usa questo indirizzo**:
 **Indirizzo attuale del server di gioco** (il server è di nuovo online dal 6/11/2026)
 
 ```
-https://fit-planners-cruise-decisions.trycloudflare.com
+https://hub.tcgitalia.org
 ```
 
 Se compare **"Dati delle carte non aggiornati"**, premi **Aggiorna i dati delle carte** nella lobby e riprova.

@@ -1,8 +1,8 @@
 {
-  "hub": "https://fit-planners-cruise-decisions.trycloudflare.com",
+  "hub": "https://hub.tcgitalia.org",
   "version": "0.6.7",
   "minVersion": "0.2.0",
-  "sig": "YnKjFtiAjMWyAxkkwSjjVMebmTXQI2oTm7NrpaekgpulliPqyFXuHw2jwbfo89Qrah1/42Nhm+u6StQkEOXs1A==",
-  "seq": 1794145540,
-  "sig2": "uYBW5IB4k99wO3OWwo2DUWJUVV1IODNnLnd4zqGeEhPkPpWl7WsXh9AMO5qpIMiVxQKAhD8G+XVWWU2zOIxEuQ=="
+  "sig": "yaq+9Z7t1KGtKxCuh0NwTs5kkSAahngTPDmpqEIuctcBpqaqJNtU2YZexrI/JhmOQ8oxt54goKBDth/t2OYp2g==",
+  "seq": 1794337896,
+  "sig2": "metUIlmeGarB+zNjIFF25TWdcTfH8GEZVYWYfifTMd/8pSqh7Xo71fH4C14jOjcn2ajPewIqcQM25/tUSlkP1A=="
 }
