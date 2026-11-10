@@ -2,7 +2,7 @@
 
 ### Il simulatore fan made con le carte e gli effetti in italiano
 
-Per quanto ne sappiamo, è il **primo simulatore di One Piece TCG pensato per giocare con gli effetti delle carte in italiano**.
+Un **simulatore di One Piece Card Game con gli effetti delle carte tradotti in italiano** (traduzione non ufficiale).
 Gratuito, per Windows e Android (beta), **in continuo aggiornamento**.
 
 > [!IMPORTANT]
