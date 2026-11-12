@@ -1,8 +1,8 @@
 {
   "hub": "https://hub.tcgitalia.org",
-  "version": "0.6.8",
+  "version": "0.6.9",
   "minVersion": "0.2.0",
-  "sig": "f7cAEIh8dRUtgOqqBs/BqrtqLOJRljJo8h0Xluqq0nHdZqylyrJvUq8GThbdfdVPvws2Zb12y5DIUMhFWVdTCg==",
-  "seq": 1794342263,
-  "sig2": "Z4TwbPmsUUyWbDGcOHIStKSlxppvverAO1E92UFO+ePQNedEKt9e205tsjppluzz72MfJdabugcapSl8kclcDw=="
+  "sig": "uz5hmRSPywoS2XISeZhqWiTpaXLeLAOuYY/sdh+nPqFq2jlTvjdric+ad8yd2vzfEcpZ3yC/xIQUvPfG2FJd/A==",
+  "seq": 1794502650,
+  "sig2": "fgKomZc3zC1RckAHfdr4PxL79FjjiE3sHNYPhU8B7GQ2WuZh2f37ux6qqm78UQGvd71IVSsb3FAAY+81fReIVQ=="
 }
