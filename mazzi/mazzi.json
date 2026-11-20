@@ -238,6 +238,18 @@
    "source": "ChinoizeCup",
    "cards": [
     {
+     "code": "OP13-089",
+     "name": "St. Topman Warcury",
+     "type": "Character",
+     "count": 1
+    },
+    {
+     "code": "OP17-095",
+     "name": "Roronoa Zoro",
+     "type": "Character",
+     "count": 2
+    },
+    {
      "code": "OP18-064",
      "name": "Saint Killingham",
      "type": "Character",
@@ -277,7 +289,7 @@
      "code": "OP18-093",
      "name": "Sleeptids",
      "type": "Character",
-     "count": 5
+     "count": 4
     },
     {
      "code": "OP18-119",
@@ -286,16 +298,10 @@
      "count": 4
     },
     {
-     "code": "OP07-076",
-     "name": "Slow-Slow Beam Sword",
+     "code": "OP13-096",
+     "name": "The Five Elders Are at Your Service!!!",
      "type": "Event",
      "count": 1
-    },
-    {
-     "code": "OP15-077",
-     "name": "Lightning Dragon",
-     "type": "Event",
-     "count": 2
     },
     {
      "code": "OP15-078",
@@ -318,6 +324,120 @@
     {
      "code": "OP18-097",
      "name": "Abyss Pentagram",
+     "type": "Stage",
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "OP13-001",
+   "name": "Red/Green Monkey.D.Luffy",
+   "leader": {
+    "code": "OP13-001",
+    "name": "Monkey.D.Luffy"
+   },
+   "colors": [
+    "Red",
+    "Green"
+   ],
+   "set": "OP18",
+   "month": "2026-11",
+   "legal": true,
+   "source": "ChinoizeCup",
+   "cards": [
+    {
+     "code": "EB02-017",
+     "name": "Nami",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "EB04-007",
+     "name": "Roronoa Zoro",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP01-016",
+     "name": "Nami",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP13-027",
+     "name": "Sanji",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP14-022",
+     "name": "Usopp",
+     "type": "Character",
+     "count": 2
+    },
+    {
+     "code": "OP14-031",
+     "name": "Nami",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP15-032",
+     "name": "Brook",
+     "type": "Character",
+     "count": 2
+    },
+    {
+     "code": "OP18-026",
+     "name": "Sanji",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP18-027",
+     "name": "Zoro & Sogeking",
+     "type": "Character",
+     "count": 2
+    },
+    {
+     "code": "OP18-031",
+     "name": "Nico Robin",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP18-034",
+     "name": "Franky",
+     "type": "Character",
+     "count": 2
+    },
+    {
+     "code": "OP18-118",
+     "name": "Monkey.D.Luffy",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "ST21-003",
+     "name": "Sanji",
+     "type": "Character",
+     "count": 1
+    },
+    {
+     "code": "OP05-038",
+     "name": "Charlestone",
+     "type": "Event",
+     "count": 4
+    },
+    {
+     "code": "OP12-037",
+     "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+     "type": "Event",
+     "count": 1
+    },
+    {
+     "code": "ST31-005",
+     "name": "Thousand Sunny",
      "type": "Stage",
      "count": 4
     }
@@ -908,13 +1028,13 @@
      "code": "EB05-028",
      "name": "Boa Hancock",
      "type": "Character",
-     "count": 1
+     "count": 2
     },
     {
      "code": "OP09-048",
      "name": "Dracule Mihawk",
      "type": "Character",
-     "count": 3
+     "count": 4
     },
     {
      "code": "OP09-051",
@@ -947,6 +1067,12 @@
      "count": 1
     },
     {
+     "code": "ST25-001",
+     "name": "Alvida",
+     "type": "Character",
+     "count": 3
+    },
+    {
      "code": "ST25-002",
      "name": "Cabaji",
      "type": "Character",
@@ -965,28 +1091,22 @@
      "count": 4
     },
     {
-     "code": "EB02-031",
-     "name": "Hope",
+     "code": "EB02-030",
+     "name": "And That's When Somebody Makes Fun of Their Friend's Dream!!!!",
      "type": "Event",
-     "count": 4
+     "count": 2
     },
     {
      "code": "OP06-058",
      "name": "Gravity Blade Raging Tiger",
      "type": "Event",
-     "count": 3
+     "count": 2
     },
     {
      "code": "OP09-057",
      "name": "Cross Guild",
      "type": "Event",
      "count": 4
-    },
-    {
-     "code": "OP09-060",
-     "name": "Emptee Bluffs Island",
-     "type": "Stage",
-     "count": 2
     }
    ]
   },
@@ -1318,19 +1438,13 @@
    "set": "EB05",
    "month": "2026-11",
    "legal": true,
-   "source": "ShopEvent",
+   "source": "ChinoizeCup",
    "cards": [
-    {
-     "code": "EB05-028",
-     "name": "Boa Hancock",
-     "type": "Character",
-     "count": 1
-    },
     {
      "code": "OP08-051",
      "name": "Buckin",
      "type": "Character",
-     "count": 2
+     "count": 3
     },
     {
      "code": "OP17-040",
@@ -1342,7 +1456,7 @@
      "code": "OP17-042",
      "name": "Kaido",
      "type": "Character",
-     "count": 2
+     "count": 3
     },
     {
      "code": "OP17-044",
@@ -1378,7 +1492,7 @@
      "code": "OP17-050",
      "name": "Streusen",
      "type": "Character",
-     "count": 3
+     "count": 2
     },
     {
      "code": "OP17-052",
@@ -1976,13 +2090,19 @@
    "set": "EB05",
    "month": "2026-11",
    "legal": true,
-   "source": "SB",
+   "source": "ChinoizeCup",
    "cards": [
     {
-     "code": "OP12-063",
-     "name": "Vinsmoke Reiju",
+     "code": "OP09-072",
+     "name": "Franky",
      "type": "Character",
-     "count": 3
+     "count": 2
+    },
+    {
+     "code": "OP10-072",
+     "name": "Donquixote Rosinante",
+     "type": "Character",
+     "count": 2
     },
     {
      "code": "OP12-071",
@@ -2000,19 +2120,13 @@
      "code": "OP15-066",
      "name": "Satori",
      "type": "Character",
-     "count": 2
+     "count": 4
     },
     {
      "code": "OP15-067",
      "name": "Shura",
      "type": "Character",
      "count": 4
-    },
-    {
-     "code": "OP15-071",
-     "name": "Holly",
-     "type": "Character",
-     "count": 3
     },
     {
      "code": "OP15-118",
@@ -2024,7 +2138,7 @@
      "code": "ST10-010",
      "name": "Trafalgar Law",
      "type": "Character",
-     "count": 2
+     "count": 3
     },
     {
      "code": "OP05-077",
@@ -2042,7 +2156,7 @@
      "code": "OP15-074",
      "name": "Varie",
      "type": "Event",
-     "count": 4
+     "count": 3
     },
     {
      "code": "OP15-075",
@@ -3076,114 +3190,6 @@
    ]
   },
   {
-   "id": "OP13-001",
-   "name": "Red/Green Monkey.D.Luffy",
-   "leader": {
-    "code": "OP13-001",
-    "name": "Monkey.D.Luffy"
-   },
-   "colors": [
-    "Red",
-    "Green"
-   ],
-   "set": "EB05",
-   "month": "2026-11",
-   "legal": true,
-   "source": "EGB CS",
-   "cards": [
-    {
-     "code": "EB01-013",
-     "name": "Kouzuki Hiyori",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "EB05-001",
-     "name": "Jewelry Bonney",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP06-033",
-     "name": "Vander Decken IX",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP07-022",
-     "name": "Otama",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP12-023",
-     "name": "Kawamatsu",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP13-016",
-     "name": "Monkey.D.Garp",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP13-031",
-     "name": "Trafalgar Law",
-     "type": "Character",
-     "count": 3
-    },
-    {
-     "code": "OP14-031",
-     "name": "Nami",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP17-022",
-     "name": "Shanks",
-     "type": "Character",
-     "count": 2
-    },
-    {
-     "code": "ST30-004",
-     "name": "Emporio.Ivankov",
-     "type": "Character",
-     "count": 3
-    },
-    {
-     "code": "ST32-001",
-     "name": "Kin'emon",
-     "type": "Character",
-     "count": 1
-    },
-    {
-     "code": "ST32-002",
-     "name": "Kouzuki Oden",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP01-055",
-     "name": "You Can Be My Samurai!!",
-     "type": "Event",
-     "count": 3
-    },
-    {
-     "code": "OP04-038",
-     "name": "The Weak Do Not Have the Right to Choose How They Die!!!",
-     "type": "Event",
-     "count": 3
-    },
-    {
-     "code": "OP14-037",
-     "name": "For Fun",
-     "type": "Event",
-     "count": 3
-    }
-   ]
-  },
-  {
    "id": "OP01-002",
    "name": "Red/Green Trafalgar Law",
    "leader": {
@@ -3545,7 +3551,7 @@
    "set": "EB05",
    "month": "2026-11",
    "legal": true,
-   "source": "Heroines Cup",
+   "source": "HeroinesCup",
    "cards": [
     {
      "code": "EB04-007",
@@ -3560,8 +3566,20 @@
      "count": 4
     },
     {
+     "code": "EB04-061",
+     "name": "Monkey.D.Luffy",
+     "type": "Character",
+     "count": 1
+    },
+    {
      "code": "EB05-004",
      "name": "Baby 5",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP07-099",
+     "name": "Usopp",
      "type": "Character",
      "count": 4
     },
@@ -3572,20 +3590,26 @@
      "count": 4
     },
     {
+     "code": "OP09-104",
+     "name": "Sabo",
+     "type": "Character",
+     "count": 2
+    },
+    {
+     "code": "OP09-118",
+     "name": "Gol.D.Roger",
+     "type": "Character",
+     "count": 1
+    },
+    {
      "code": "OP12-112",
      "name": "Baby 5",
      "type": "Character",
      "count": 4
     },
     {
-     "code": "OP15-103",
-     "name": "Genbo",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP17-107",
-     "name": "Charlotte Daifuku",
+     "code": "OP16-108",
+     "name": "Shiryu",
      "type": "Character",
      "count": 4
     },
@@ -3596,26 +3620,26 @@
      "count": 4
     },
     {
-     "code": "OP17-112",
-     "name": "Charlotte Linlin",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP17-114",
-     "name": "Sweet 3 Generals",
-     "type": "Character",
-     "count": 4
-    },
-    {
      "code": "EB01-059",
      "name": "Kingdom Come",
      "type": "Event",
      "count": 2
     },
     {
+     "code": "EB04-008",
+     "name": "Distorted Future",
+     "type": "Event",
+     "count": 2
+    },
+    {
      "code": "OP06-115",
      "name": "You're the One Who Should Disappear.",
+     "type": "Event",
+     "count": 2
+    },
+    {
+     "code": "OP12-018",
+     "name": "Color of the Supreme King Haki",
      "type": "Event",
      "count": 4
     },
