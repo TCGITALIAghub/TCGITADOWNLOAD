@@ -222,6 +222,108 @@
    ]
   },
   {
+   "id": "OP18-021",
+   "name": "Green/Purple Franky",
+   "leader": {
+    "code": "OP18-021",
+    "name": "Franky"
+   },
+   "colors": [
+    "Green",
+    "Purple"
+   ],
+   "set": "OP18",
+   "month": "2026-11",
+   "legal": true,
+   "source": "ChinoizeCup",
+   "cards": [
+    {
+     "code": "EB02-017",
+     "name": "Nami",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP18-070",
+     "name": "Tom",
+     "type": "Character",
+     "count": 2
+    },
+    {
+     "code": "OP18-061",
+     "name": "Iceburg",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP08-067",
+     "name": "Charlotte Pudding",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP18-031",
+     "name": "Nico Robin",
+     "type": "Character",
+     "count": 2
+    },
+    {
+     "code": "OP18-072",
+     "name": "The Franky Family",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP18-034",
+     "name": "Franky",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP18-118",
+     "name": "Monkey.D.Luffy",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP17-022",
+     "name": "Shanks",
+     "type": "Character",
+     "count": 4
+    },
+    {
+     "code": "OP09-078",
+     "name": "Gum-Gum Giant",
+     "type": "Event",
+     "count": 2
+    },
+    {
+     "code": "OP18-075",
+     "name": "Thousand Sunny",
+     "type": "Stage",
+     "count": 4
+    },
+    {
+     "code": "OP18-076",
+     "name": "Shark Submerge 3",
+     "type": "Stage",
+     "count": 4
+    },
+    {
+     "code": "OP18-077",
+     "name": "White Hobby Horse 1",
+     "type": "Stage",
+     "count": 4
+    },
+    {
+     "code": "OP18-078",
+     "name": "Mini-Merry",
+     "type": "Stage",
+     "count": 4
+    }
+   ]
+  },
+  {
    "id": "OP18-060",
    "name": "Purple/Black Saint Gunko",
    "leader": {
@@ -3190,126 +3292,6 @@
    ]
   },
   {
-   "id": "OP01-002",
-   "name": "Red/Green Trafalgar Law",
-   "leader": {
-    "code": "OP01-002",
-    "name": "Trafalgar Law"
-   },
-   "colors": [
-    "Red",
-    "Green"
-   ],
-   "set": "EB05",
-   "month": "2026-11",
-   "legal": true,
-   "source": "EGB CS",
-   "cards": [
-    {
-     "code": "EB01-012",
-     "name": "Cavendish",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "EB01-013",
-     "name": "Kouzuki Hiyori",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "EB05-001",
-     "name": "Jewelry Bonney",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP06-033",
-     "name": "Vander Decken IX",
-     "type": "Character",
-     "count": 3
-    },
-    {
-     "code": "OP12-023",
-     "name": "Kawamatsu",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP12-034",
-     "name": "Perona",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP13-031",
-     "name": "Trafalgar Law",
-     "type": "Character",
-     "count": 2
-    },
-    {
-     "code": "OP14-013",
-     "name": "Monkey.D.Luffy",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP14-016",
-     "name": "X.Drake",
-     "type": "Character",
-     "count": 1
-    },
-    {
-     "code": "OP17-022",
-     "name": "Shanks",
-     "type": "Character",
-     "count": 2
-    },
-    {
-     "code": "ST02-009",
-     "name": "Trafalgar Law",
-     "type": "Character",
-     "count": 1
-    },
-    {
-     "code": "ST24-002",
-     "name": "Kid & Killer",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "ST32-001",
-     "name": "Kin'emon",
-     "type": "Character",
-     "count": 1
-    },
-    {
-     "code": "ST32-002",
-     "name": "Kouzuki Oden",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "ST32-005",
-     "name": "Roronoa Zoro",
-     "type": "Character",
-     "count": 4
-    },
-    {
-     "code": "OP01-055",
-     "name": "You Can Be My Samurai!!",
-     "type": "Event",
-     "count": 2
-    },
-    {
-     "code": "OP10-041",
-     "name": "Radio Knife",
-     "type": "Event",
-     "count": 2
-    }
-   ]
-  },
-  {
    "id": "ST10-002",
    "name": "Red/Purple Monkey.D.Luffy",
    "leader": {
@@ -3873,7 +3855,7 @@
   }
  ],
  "banlist": {
-  "since": "2026-10-12",
+  "since": "2026-11-27",
   "banned": [
    "OP06-047",
    "OP03-040",
@@ -3894,6 +3876,14 @@
    [
     "OP11-040",
     "OP08-069"
+   ],
+   [
+    "EB05-001",
+    "OP13-001"
+   ],
+   [
+    "EB05-001",
+    "OP01-002"
    ]
   ]
  }
